@@ -60,3 +60,24 @@ API для подключения внешних инструментов (Git, 
 ##
 Концепция соответствует требованиям методологии «ГосТех» и может быть реализована в рамках дорожной карты создания доменной архитектуры цифровой образовательной или управленческой среды.
 
+## Контекстная диаграмма
+<img width="659" height="542" alt="Контекстная диаграмма" src="https://github.com/user-attachments/assets/8dd03f11-ac69-447e-9a25-21de9aed9593" />
+
+## Схема контейнеров
+<img width="933" height="1144" alt="схема контейнеров (Архитектура)" src="https://github.com/user-attachments/assets/b2a2199e-9b62-46d5-a51c-1167ba6eaf58" />
+
+## Компонентная схема
+<img width="968" height="624" alt="компонентная схема" src="https://github.com/user-attachments/assets/5d86dcb6-0520-4a08-ab6a-579451710131" />
+
+## Диаграмма классов
+<img width="1001" height="762" alt="диаграмма классов" src="https://github.com/user-attachments/assets/615df2fa-7039-42f0-84fb-0f52f2bfd58f" />
+
+## Клиентский путь
+<img width="640" height="811" alt="image" src="https://github.com/user-attachments/assets/6e6f8273-80d7-4d39-b6fe-41bfb1e9e2a2" />
+
+
+
+
+
+
+
